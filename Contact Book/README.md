@@ -1,10 +1,10 @@
-📒 Contact Book – Python Project
+# 📒 Contact Book – Python Project
 
 This project is a simple yet effective contact management system built using Python. It demonstrates how self-referential data structures (specifically, the linked list concept) can be used to store and manage records dynamically.
 
 The system allows users to add, search, view, and manage contact information via a menu-driven console interface. Each contact contains a name and a phone number. As new contacts are added, nodes are created and internally linked together — reflecting the underlying concept of linked lists in data structures.
 
-✨ Key Features
+# ✨ Key Features
 
 ➕ Add new Contact Users can insert new contacts by providing a name and phone number. Each entry is stored as a new node in the linked list.
 
@@ -14,7 +14,7 @@ The system allows users to add, search, view, and manage contact information via
 
 ❌ Delete Contact (optional/extendable feature) You may also extend the project to delete a contact node by matching the name or number.
 
-🧰 Technologies / Concepts Used
+# 🧰 Technologies / Concepts Used
 
 Python 3
 
@@ -24,7 +24,7 @@ Linked List (Self-referential structure)
 
 Object-Oriented Programming (Using classes)
 
-🚀 How to Run
+# 🚀 How to Run
 
 Install Python on your system (Python 3.x).
 
@@ -36,7 +36,7 @@ Run the program:
 
 python contactBook.py
 
-📌 Educational Objective
+# 📌 Educational Objective
 
 This mini project is ideal for students who want to gain a practical understanding of how linked lists work internally. Rather than relying on static data structures like arrays, the program dynamically creates nodes that are “linked” to each other — making it a perfect illustration of self-referential classes and pointer-like behavior in Python.
 
