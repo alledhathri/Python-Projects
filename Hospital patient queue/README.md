@@ -15,7 +15,9 @@ The system adopts a priority-based insertion technique using a queue data struct
 
 # 🧰 Technologies / Concepts Used
 
-Python (Core) Queue Data Structure collections.deque used for efficient double-ended queue operations Priority-Based Insertion Logic
+Python (Core) Queue Data Structure collections.
+Deque used for efficient double-ended queue operation.
+Priority-Based Insertion Logic.
 
 # 🚀 How to Run
 
