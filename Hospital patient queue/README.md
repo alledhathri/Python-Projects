@@ -20,8 +20,11 @@ Python (Core) Queue Data Structure collections.deque used for efficient double-e
 # 🚀 How to Run
 
 Make sure Python (version 3.x) is installed on your system.
+
 Open your terminal or command prompt.
+
 Navigate to your project directory: cd Hospital_Patient_Queue
+
 Run the main program file: python src/main.py
 
 # 🎯 Educational Objective
